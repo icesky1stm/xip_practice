@@ -1,10 +1,13 @@
 ---
-typora-copy-images-to: D:\Typora\images
+
+
 ---
 
 ##### 一、TfrunningStudio整体介绍
 
-​	TfrunningStudio（后面简称TFS）是公司自研的前台开发工具。可以进行屏幕页面的绘制、交易的建立、和后台通讯的配置。工具主要有三个功能部分：
+​	(1)工具获取：在浏览器中输入ftp://192.168.10.202,下载TFRunningStudio.rar和 eTeller.rar。（也可以通过其他工具下载）
+
+​	(2)TfrunningStudio（后面简称TFS）是公司自研的前台开发工具。可以进行屏幕页面的绘制、交易的建立、和后台通讯的配置。工具主要有三个功能部分：
 
 ![](TfrunningStudio.assets/1531364580236.png)
 
@@ -57,6 +60,12 @@ TableIndex是敲击回车键时光标的跳入顺序，每个控件要安装从�
   ​	根据计算器的特性，计算数字必须输入，计算结果不能修改，除数不能为0调整每个域。
 
   ![](TfrunningStudio.assets/1531387979533.png)
+
+  ​	
+
+  ![1531447239688](TfrunningStudio.assets/1531447239688.png)
+
+  
 
   ​	（8）点击“交易流程”，从右侧流程工具工具栏中拖拽执行按钮到中间画布，配置相关属性。点击数据结构，确认8583报文位图。最后签入。
 
